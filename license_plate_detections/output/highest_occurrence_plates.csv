@@ -1,0 +1,8 @@
+Frame Number,Timestamp,Vehicle ID,Plate Text,Plate Confidence,Vehicle Image Path,Plate Image Path,Count
+97,00:00:01,1,BR01EZ2264,0.9924818364418988,E:/github/license_plate_detections/vehicle_image/97_1_vehicle.jpg,E:/github/license_plate_detections/license_plate_images/97_1_plate_rotated.jpg,135
+280,00:00:04,2,GJ06PN1816,0.7874640990230601,E:/github/license_plate_detections/vehicle_image/280_2_vehicle.jpg,E:/github/license_plate_detections/license_plate_images/280_2_plate_rotated.jpg,87
+462,00:00:07,7,GJ06PB1587,0.7327298804600744,E:/github/license_plate_detections/vehicle_image/462_7_vehicle.jpg,E:/github/license_plate_detections/license_plate_images/462_7_plate_rotated.jpg,63
+468,00:00:07,12,GJ06LK4611,0.2724470601038123,E:/github/license_plate_detections/vehicle_image/468_12_vehicle.jpg,E:/github/license_plate_detections/license_plate_images/468_12_plate_rotated.jpg,5
+706,00:00:11,19,GJ06PG8284,0.566837645095598,E:/github/license_plate_detections/vehicle_image/706_19_vehicle.jpg,E:/github/license_plate_detections/license_plate_images/706_19_plate_rotated.jpg,7
+524,00:00:08,23,7G30G8662C,0.0929583582136855,E:/github/license_plate_detections/vehicle_image/524_23_vehicle.jpg,E:/github/license_plate_detections/license_plate_images/524_23_plate_rotated.jpg,1
+706,00:00:11,32,GL46P96598,0.0401031653662349,E:/github/license_plate_detections/vehicle_image/706_32_vehicle.jpg,E:/github/license_plate_detections/license_plate_images/706_32_plate_rotated.jpg,1

@@ -1,0 +1,1 @@
+This model is trained only on 100 images. I t is highly recommend that you train a new model on a larger dataset.
