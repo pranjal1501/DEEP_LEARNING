@@ -22,7 +22,7 @@ vehicle_model = attempt_load('E:/code/yolov7/yolov7.pt', map_location=device)   
 vehicle_model.to(device).eval()
 
 # Load the number plate detection model (replace with your actual number plate detection model loading code)
-number_plate_model = attempt_load('E:/code/yolov7/best.pt', map_location=device)   #path to number plate detection model .pt file
+number_plate_model = attempt_load('_available on roboflow_', map_location=device)   #path to number plate detection model .pt file
 number_plate_model.to(device).eval()
 
 # Variables for vehicle tracking
